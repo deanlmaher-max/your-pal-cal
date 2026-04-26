@@ -1,0 +1,6 @@
+{
+  "env": {
+    "NEXT_PUBLIC_GOOGLE_CLIENT_ID": "116021637311-gsgr9voc5hf2l7836i3720jq4lcuk830.apps.googleusercontent.com",
+    "ANTHROPIC_API_KEY": "YOUR_NEW_API_KEY_HERE"
+  }
+}
